@@ -24,7 +24,7 @@ Mindketten mióta az eszünket tudjuk szeretünk mind pc-s, mind telefonos ját�
 ennek következtében szeretnénk remélni, hjogy mit vár egy játéktól egy felhasználó.
 
 ## Követelmények:
-Játék indítása, Első játéknál esetleges név a mentéshez. Ellenkező esetben a játék bezárása vagy Bolt (fejlesztések).
+Játék indítása, Első játéknál esetleges név a mentéshez. Ellenkező esetben a játék bezárása vagy Bolt megnyitása (fejlesztések).
 Fő játékmenet megjelenítése a karakterrel, hozzá tartozó élet, gyűjtött pénz. Pause esetén fejlesztések mutatása.
-Mozgás "gombával" érintőképernyőn. Cél -> a lehető legmahasabbra jutni.
-Játék vége ha az élet = 0. Új játék, vásárlás / kilépés ismét.
+Mozgás "gombával" érintőképernyőn. Cél -> a lehető legmagasabbra jutni.
+Játék vége ha az élet = 0. Új játék, vásárlás / kilépés.
